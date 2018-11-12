@@ -11,7 +11,7 @@ const ipfsOptions = {
     pubsub: true
   }
 }
-const ORBITDB_PATH = '/opt/orbitdb'
+const ORBITDB_PATH = './orbitdb'
 const PINNING_ROOM = '3box-pinning'
 
 // Create IPFS instance
