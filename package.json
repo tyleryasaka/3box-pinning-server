@@ -25,6 +25,6 @@
     "dotenv": "^6.1.0",
     "ipfs": "^0.32.3",
     "orbit-db": "^0.19.9",
-    "orbit-db-ethstore": "git+https://github.com/tyleryasaka/orbit-db-ethstore.git"
+    "orbit-db-ethstore": "tyleryasaka/orbit-db-ethstore"
   }
 }
